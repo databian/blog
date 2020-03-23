@@ -1,3 +1,2 @@
 # blog
-.md files
-manage .md files of private blog
+Manage .md files of private blog
